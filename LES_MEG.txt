@@ -1,0 +1,8 @@
+ØVELSESKJØRING
+
+1. Pakk ut ZIP-filen.
+2. Legg filene på en HTTPS-nettside for full GPS-funksjon. GPS virker normalt ikke når index.html åpnes direkte som en lokal fil.
+3. Åpne index.html på mobilen og velg Legg til på startskjermen.
+4. Tillat presis posisjon.
+
+Turene lagres lokalt på enheten. Bruk Last ned CSV for sikkerhetskopi.
