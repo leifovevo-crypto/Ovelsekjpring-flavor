@@ -1,0 +1,2 @@
+# Ovelsekjpring-flavor
+Privat logging
